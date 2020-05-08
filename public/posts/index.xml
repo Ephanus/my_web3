@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on EPHANTUS</title>
+    <link>http://www.example.com/posts/</link>
+    <description>Recent content in Posts on EPHANTUS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 08 May 2020 11:37:44 +0300</lastBuildDate>
+    
+	<atom:link href="http://www.example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>BRIEF ON PROGRAMMING</title>
+      <link>http://www.example.com/posts/second_post/</link>
+      <pubDate>Fri, 08 May 2020 11:37:44 +0300</pubDate>
+      
+      <guid>http://www.example.com/posts/second_post/</guid>
+      <description>&lt;p&gt;Programming sometimes is nomarlly underrated and sometimes termed as hard to study.
+though in real sense programming can solve many challenges in which our world is facing.&lt;/p&gt;
+&lt;p&gt;i can encourage each and every student regardless of which couarse he or she is undertaking to atleast equip him/herself with programming skills&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ABOUT MYSELF</title>
+      <link>http://www.example.com/posts/my-first-post/</link>
+      <pubDate>Fri, 08 May 2020 10:56:37 +0300</pubDate>
+      
+      <guid>http://www.example.com/posts/my-first-post/</guid>
+      <description>&lt;p&gt;##AM  student at Egerton university studying instumentation and control enginnering&lt;/p&gt;
+&lt;p&gt;These are so,e of my collegues whom we study with&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.example.com/images/group.jpg&#34; alt=&#34;your image&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
